@@ -4,11 +4,11 @@
 - Não possuo muitas coisas para compartilhar por agora, então é isso!! 🙃
 - Segue algumas redes minhas. ;D
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel_viggiani)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielviggiani/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielviggianih)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielviggianih/)
 
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielviggianih&show_icons=true&theme=radical)
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielviggianih&show_icons=true&theme=dracula)
 
 
 <div style="display: inline_block"><br>
