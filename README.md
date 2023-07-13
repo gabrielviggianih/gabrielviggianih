@@ -7,10 +7,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel_viggiani)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielviggiani/)
 
- <div>
-    ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielviggianih&show_icons=true&theme=radical)
 
-</div>
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielviggianih&show_icons=true&theme=radical)
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -18,6 +18,3 @@
 </div>
  
  <br>
-
-
-</div>
